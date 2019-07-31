@@ -1,16 +1,7 @@
-### Nextjs boilerplate
+### NiftyAPI landing page
 
-#### Why
+> NiftyAPI endpoint is a gateway for general and public services
 
-because nextjs does not come with zero config for general features like
-
-* Styling solution
-* File loader
-* SSR config
-* assets prefix
-* folder structure
-* in style url
-* sub directory support
 
 #### Run
 
