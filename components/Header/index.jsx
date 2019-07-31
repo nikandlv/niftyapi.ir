@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header>
-            Hello
+            <h1 className="title" >NiftyAPI</h1>
         </header>
     )
 }
