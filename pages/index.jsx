@@ -1,9 +1,11 @@
 import Wrapper from '../components/Wrapper'
+import Header from '../components/Header';
 export default function Index() {
 	return (
 		  <Wrapper>
-			<h1>Welcome to NextJS boilerplate</h1>
-			<a href="https://github.com/nikandlv/nextjs-boilerplate-stylus">Github repo</a>
+			  <div className="padding-wrapper">
+				<Header />
+			  </div>
 		  </Wrapper>
 
 	);
