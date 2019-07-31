@@ -5,10 +5,19 @@
 
 #### Run
 
-`npm run dev`
+```
+// Install
 
-#### Build and Export 
+npm install
 
-`npm run build`
+// Run
 
-`npm run export`
+npm run dev
+
+// Build and Export
+
+npm run build
+
+npm run export
+
+```
