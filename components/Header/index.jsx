@@ -3,41 +3,41 @@ export default function Header() {
         <header>
             <span className="title" >NiftyAPI</span>
             <span className="description" >A fast, reliable API gateway</span>
-            <div class="list">
+            <div className="list">
             <div className="link-list">
                 <span className="services">Services</span>
                 <ul>
-                    <li>Authentication</li>
-                    <li>Analytics</li>
-                    <li>Metrics</li>
-                    <li>Crash reports</li>
+                    <li><a>Authentication</a></li>
+                    <li><a>Analytics</a></li>
+                    <li><a>Metrics</a></li>
+                    <li><a>Crash reports</a></li>
                 </ul>
             </div>
             <div className="link-list">
                 <span className="services">Services</span>
                 <ul>
-                    <li>Authentication</li>
-                    <li>Analytics</li>
-                    <li>Metrics</li>
-                    <li>Crash reports</li>
+                    <li><a>Authentication</a></li>
+                    <li><a>Analytics</a></li>
+                    <li><a>Metrics</a></li>
+                    <li><a>Crash reports</a></li>
                 </ul>
             </div>
             <div className="link-list">
                 <span className="services">Services</span>
                 <ul>
-                    <li>Authentication</li>
-                    <li>Analytics</li>
-                    <li>Metrics</li>
-                    <li>Crash reports</li>
+                    <li><a>Authentication</a></li>
+                    <li><a>Analytics</a></li>
+                    <li><a>Metrics</a></li>
+                    <li><a>Crash reports</a></li>
                 </ul>
             </div>
             <div className="link-list">
                 <span className="services">Services</span>
                 <ul>
-                    <li>Authentication</li>
-                    <li>Analytics</li>
-                    <li>Metrics</li>
-                    <li>Crash reports</li>
+                    <li><a>Authentication</a></li>
+                    <li><a>Analytics</a></li>
+                    <li><a>Metrics</a></li>
+                    <li><a>Crash reports</a></li>
                 </ul>
             </div>
             </div>
