@@ -3,13 +3,17 @@ export default function Header() {
         <header>
             <span className="title" >NiftyAPI</span>
             <span className="description" >A fast, reliable API gateway</span>
-            <span className="services">Services</span>
-            <ul>
-            <li>Authentication</li>
-            <li>Analytics</li>
-            <li>Metrics</li>
-            <li>Crash reports</li>
-            </ul>
+            <div class="list">
+            <div className="link-list">
+                <span className="services">Services</span>
+                <ul>
+                    <li>Authentication</li>
+                    <li>Analytics</li>
+                    <li>Metrics</li>
+                    <li>Crash reports</li>
+                </ul>
+            </div>
+            </div>
         </header>
     )
 }
