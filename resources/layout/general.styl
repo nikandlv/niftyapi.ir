@@ -1,10 +1,8 @@
 body
-    background: linear-gradient(270deg, #89e1ca, #89e19c, #cfe189, #e1c089, #e18e89, #e189bb, #bd89e1, #898fe1, #89c5e1);
-    background-size: 1800% 1800%;
+    background: #f2709c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff9472, #f2709c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff9472, #f2709c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-    -webkit-animation: BackgroundAnimation 50s ease infinite;
-    -moz-animation: BackgroundAnimation 50s ease infinite;
-    animation: BackgroundAnimation 50s ease infinite;
 
     font-family: 'Space Mono', monospace
     min-height 100vh !important
@@ -23,19 +21,3 @@ body
 .link-list
     padding: 2rem 4rem
     box-sizing border-box
-
-@-webkit-keyframes BackgroundAnimation {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-@-moz-keyframes BackgroundAnimation {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
-@keyframes BackgroundAnimation { 
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-}
