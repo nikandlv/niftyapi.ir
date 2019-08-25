@@ -16,10 +16,10 @@ export default function Header() {
             <div className="link-list">
                 <span className="services">Learn more</span>
                 <ul>
-                    <li><a>Authentication</a></li>
-                    <li><a>Analytics</a></li>
-                    <li><a>Metrics</a></li>
-                    <li><a>Crash reports</a></li>
+                    <li><a>Blog</a></li>
+                    <li><a>Downloads</a></li>
+                    <li><a>Documents</a></li>
+                    <li><a>Github</a></li>
                 </ul>
             </div>
             <div className="link-list">
