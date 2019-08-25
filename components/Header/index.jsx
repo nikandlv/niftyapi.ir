@@ -34,10 +34,10 @@ export default function Header() {
             <div className="link-list">
                 <span className="services">Contact</span>
                 <ul>
-                    <li><a>Authentication</a></li>
-                    <li><a>Analytics</a></li>
-                    <li><a>Metrics</a></li>
-                    <li><a>Crash reports</a></li>
+                    <li><a href="mailto:info@niftyapi.ir">info@niftyapi.ir</a></li>
+                    <li><a>Twitter</a></li>
+                    <li><a>Instagram</a></li>
+                    <li><a>Facebook</a></li>
                 </ul>
             </div>
             </div>
