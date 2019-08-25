@@ -14,7 +14,7 @@ export default function Header() {
                 </ul>
             </div>
             <div className="link-list">
-                <span className="services">Services</span>
+                <span className="services">Learn more</span>
                 <ul>
                     <li><a>Authentication</a></li>
                     <li><a>Analytics</a></li>
@@ -23,7 +23,7 @@ export default function Header() {
                 </ul>
             </div>
             <div className="link-list">
-                <span className="services">Services</span>
+                <span className="services">Links</span>
                 <ul>
                     <li><a>Authentication</a></li>
                     <li><a>Analytics</a></li>
@@ -32,7 +32,7 @@ export default function Header() {
                 </ul>
             </div>
             <div className="link-list">
-                <span className="services">Services</span>
+                <span className="services">Contact</span>
                 <ul>
                     <li><a>Authentication</a></li>
                     <li><a>Analytics</a></li>
