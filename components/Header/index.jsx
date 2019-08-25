@@ -25,10 +25,10 @@ export default function Header() {
             <div className="link-list">
                 <span className="services">Links</span>
                 <ul>
-                    <li><a>Authentication</a></li>
-                    <li><a>Analytics</a></li>
-                    <li><a>Metrics</a></li>
-                    <li><a>Crash reports</a></li>
+                    <li><a href="https://nikandlv.ir">nikandlv.ir</a></li>
+                    <li><a href="https://twitter.com/nikandlv">Nikandlv Twitter</a></li>
+                    <li><a href="https://instagram.com/nikandlv">Instagram</a></li>
+                    <li><a href="">Telegram</a></li>
                 </ul>
             </div>
             <div className="link-list">
