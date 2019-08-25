@@ -1,9 +1,10 @@
-### NiftyAPI landing page
+## NiftyAPI landing page
 
 > NiftyAPI endpoint is a gateway for general and public services
 
+This website is a simple landing page for niftyapi.ir
 
-#### Run
+### Run
 
 ```
 // Install
